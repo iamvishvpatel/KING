@@ -19,7 +19,7 @@
     />
     <img
         width="85%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=highcontrast&border_radius=6.5&card_width=600&background=45%2C2400FF%2CF500FF&fire=FF0000&dates=FFFFFF&border=000000&ring=FF0000&sideLabels=00FF32"
+        src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=nordfox&border_radius=16&mode=weekly&card_width=600&background=45%2C2400FF%2C34FF00)"
     />
 </p>
 
