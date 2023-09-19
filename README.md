@@ -14,12 +14,12 @@
 ### IAMVISHVPATEL Github Stats 
 <p align="center">
     <img
-        width="55%"
+        width="85%"
         src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel&count_private=true&show_icons=true&theme=tokyonight"
     />
     <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=tokyonight"
+        width="79%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=highcontrast&border_radius=6.3&card_width=600&background=45%2C2400FF%2CF500FF&fire=FF0000&dates=FFFFFF&border=000000&ring=FF0000&sideLabels=00FF32"
     />
 </p>
 
