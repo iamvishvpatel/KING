@@ -16,7 +16,7 @@
     <img
         width="75%"
         src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel&count_private=true&show_icons=true&theme=tokyonight"
-    />
+    /><br><br><br>
     <img
         width="85%"
         src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=nordfox&border_radius=16&mode=weekly&card_width=600&background=45%2C2400FF%2C34FF00"
