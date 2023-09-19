@@ -15,7 +15,7 @@
 <p align="center">
     <img
         width="55%"
-        src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel"
+        src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel&count_private=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
