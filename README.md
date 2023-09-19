@@ -6,10 +6,10 @@
 </p>
 
 ## Where to find me
-<p align="center">
+
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/iamvishvpatel)
 [![Instagram](https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvishvpatel/)
-</p>
+
 
 ### IAMVISHVPATEL Github Stats 
 <p align="center">
