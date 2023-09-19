@@ -7,11 +7,11 @@
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/iamvishvpatel))
-[![Instagram](https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvishvpatel/))
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/iamvishvpatel)
+[![Instagram](https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvishvpatel/)
 
 
-### {VISHV PATEL} github stats 
+### IAMVISHVPATEL Github Stats 
 <p align="center">
     <img
         width="52%"
