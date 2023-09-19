@@ -9,6 +9,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/iamvishvpatel)
 [![Instagram](https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvishvpatel/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvishvpatel)
 
 
 ### IAMVISHVPATEL Github Stats 
