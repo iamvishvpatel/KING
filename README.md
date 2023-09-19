@@ -1,8 +1,8 @@
 ## Hy 👋 IAMVISHVPATEL Is Here!
-[<img src="https://github.com/{iamvishvpatel}/{iamvishvpatel}/blob/master/resources/hr.gif"/>](https://github.com/{iamvishvpatel})
+[<img src="https://github.com/iamvishvpatel/iamvishvpatel/blob/master/resources/hr.gif"/>](https://github.com/iamvishvpatel)
 <p align="center">
     <b>[ᴠɪsɪᴛᴏʀs]</b><br>
- ----------->    <img align="middle" src="https://profile-counter.glitch.me/{iamvishvpatel}/count.svg" />   <--------------
+ ----------->    <img align="middle" src="https://profile-counter.glitch.me/iamvishvpatel/count.svg" />   <--------------
 </p>
 
 ## Where to find me
