@@ -14,7 +14,7 @@
 ### IAMVISHVPATEL Github Stats 
 <p align="center">
     <img
-        width="85%"
+        width="75%"
         src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel&count_private=true&show_icons=true&theme=tokyonight"
     />
     <img
