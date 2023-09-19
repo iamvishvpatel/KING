@@ -15,11 +15,11 @@
 <p align="center">
     <img
         width="52%"
-        src="https://github-readme-stats.vercel.app/api?username={iamvishvpatel}&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=iamvishvpatel&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user={iamvishvpatel}&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=iamvishvpatel&theme=tokyonight"
     />
 </p>
 
